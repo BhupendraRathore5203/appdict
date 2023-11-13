@@ -18,11 +18,12 @@ input {
 }
 
 button {
-    padding: 8px 16px;
+    padding: 8px 20px;
     cursor: pointer;
 }
 
 #result {
     margin-top: 20px;
     font-weight: bold;
+    font: 300;
 }
